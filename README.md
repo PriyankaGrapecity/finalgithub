@@ -3,8 +3,8 @@ add multiple sheets.</p>
 
 <p>More details are available in this product documentation.</p>
 
-* [Developers Guide](https://github.com/PriyankaSec/DemoHelp.github.io/blob/master/DevelopersGuide.md)    
-* [Formula Reference](https://github.com/PriyankaSec/DemoHelp.github.io/blob/master/DevelopersGuide.md)    
+* [Developers Guide](https://github.com/PriyankaGrapecity/finalgithub/new/master)    
+* [Formula Reference](https://github.com/PriyankaGrapecity/finalgithub/new/master)    
 * [API Documentation](https://github.com/PriyankaSec/DemoHelp.github.io/blob/master/DevelopersGuide.md)    
 * [Developers Guide](https://github.com/PriyankaSec/DemoHelp.github.io/blob/master/DevelopersGuide.md)    
 * [Developers Guide](https://github.com/PriyankaSec/DemoHelp.github.io/blob/master/DevelopersGuide.md)    

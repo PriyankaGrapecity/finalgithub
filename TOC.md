@@ -2,8 +2,9 @@
 
 <p>More details are available in the following topics.</p>
 
+ * [GettingStarted.html](https://github.com/PriyankaGrapecity/finalgithub/wiki)
 <ul>
-    * [GettingStarted.html](https://github.com/PriyankaGrapecity/finalgithub/wiki)
+   
 
     <li><a href="UnderstandingtheProduct.html" data-auto-update-caption="true">Understanding the Product</a></li>
 
